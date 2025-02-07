@@ -1,0 +1,1 @@
+### This is a basic Ai Agent code,Which uses gemini api with openai to make the agent use available tools,for now these are just basic functions but they can be anything you want,fetching weather of city using api,fetching live score and many more useful tasks
